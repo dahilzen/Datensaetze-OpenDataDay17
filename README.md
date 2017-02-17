@@ -14,3 +14,6 @@ Alle Ärzte, die bei der Kassenärztlichen Vereinigung Baden-Württemberg gelist
 
 # Feinstaub-Messstationen-2015.csv
 Alle Messstationen für Feinstaub in Baden-Württemberg. Rechts- und Hochwert umgerechnet in latlong. Quelle: LUBW, Stand: 2015
+
+# Pressemeldungen_PP_HN_2015.xls und Pressemeldungen_PP_HN_2016.xls
+Alle Pressemitteilungen des Polizeipräsidiums Heilbronn der Jahre 2015 und 2016, unformatiert im xls-Format. Quelle: Pressestelle des PP Heilbronn.
